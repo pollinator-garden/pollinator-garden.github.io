@@ -105,15 +105,19 @@
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
-    margin-right: 28%;
-    margin-left: 28%;
+    margin-right: 50px;
+    margin-left: 50px;
     margin-bottom: 150px;
-    border-radius: 50px;
+    border-radius: 30px;
     background-color: white;
     font-family: Arial, sans-serif;
     z-index: 1;
     position: relative;
   }
+  .btn {
+     margin-right: 28%;
+    margin-left: 28%;
+    }
   .article-link, .button-link  {
     text-align: center;
     color: forestgreen;
