@@ -138,6 +138,7 @@ div.sticky {
   position: sticky;
   bottom: 0;
     left:0;
+  align:left;
     font-size:9px;
     text-align: left;
   color:white;
